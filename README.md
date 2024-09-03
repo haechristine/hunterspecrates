@@ -1,2 +1,14 @@
-# hunterspecrates
-Analysis Report from Internship at Hunter Industries
+# Hunter's Specification Rate within the Irrigation Market
+
+Author: Christine Law
+
+## Introduction
+
+Hello! 
+
+My name is Christine Law and I'm an incoming 4th year studying Economics and Data Science at the University of California, San Diego. ​
+
+I'm passionate about intertwining my educational background of the business industry with my data analyst skillset such as identifying market trends/size, areas for improvement, and more. I've been able to funnel such passion through various projects throughout the school year including analyzing restaurant market size pre/post-pandemic, identifying impact of textual elements on recipe ratings, and more. 
+
+Currently, I'm the Marketing Analyst for Hunter Industries and I've created this website to double as a creative report and blog to document my journey completing this project.
+

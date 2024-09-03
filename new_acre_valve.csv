@@ -1,0 +1,91 @@
+id,region,building_type,square_feet,spray_count,mp_count,drip_count,rotor_count,valve_count,mix_manufacturers,value_mill,general_contractor
+202100847180,Central States,hospital,186652.00,14,0,5,0,19,TRUE,25.20,Harvey Clearly Builders
+201900664272,Central States,school,28760.00,23,0,0,26,49,TRUE,38.00,Pogue Construction
+202300402748,Central States,school,122296.00,27,0,11,7,45,FALSE,20.00,Noble Texas Builders
+202300441418,Central States,school,8695.00,6,0,0,1,7,TRUE,3.00,NaN
+202300082736,Central States,housing,3292.00,0,6,0,0,6,FALSE,5.20,Cheyenne Construction Group
+202300445697,Central States,retail,4500.00,7,0,2,0,9,FALSE,1.30,Workman Commercial 
+202300403094,Central States,park,31636.00,5,26,0,0,31,FALSE,1.90,Mills Development & Construction
+202300390869,Central States,paving,69017.00,27,0,0,0,27,TRUE,183.70,Mario Sinacola & Sons Excavating
+202300367967,Central States,warehouse,47202.00,5,0,5,5,15,TRUE,6.10,South Houston Asphalt & Concrete
+202300423568,Central States,park,431358.00,6,0,0,36,42,FALSE,1.90,Homerun Construction
+201900622127,Florida,park,5966.00,3,2,0,0,5,TRUE,7.50,Certified General Contractors
+202300403995,Florida,library,50300.00,8,0,8,7,23,FALSE,14.00,Bandes
+202300325460,Florida,water pump,12980.00,11,0,0,0,11,FALSE,1.40,Xylem Water Solutions
+202300375313,Florida,community center,12904.00,6,18,0,0,24,TRUE,2.00,NaN
+202300268396,Florida,passenger terminal,44430.00,12,0,0,0,12,TRUE,4.50,Vantage Construction Services
+202300395384,Florida,retail,29860.00,6,0,0,0,6,TRUE,1.00,Cullison-Wright 
+201800561544,Florida,athletic facility ,11737.02,9,3,0,0,12,FALSE,90.00,Childers Construction Co
+202200657825,Florida,school,240978.00,0,17,0,15,32,TRUE,60.00,Ajax Building Corp
+202300323723,Florida ,paving,326264.00,19,0,0,0,19,TRUE,26.60,Bergeron Props & Invest Co
+202300383878,Florida ,water pump,180029.00,0,25,0,0,25,FALSE,5.50,D.S Eakins
+202300160446,Great Lakes,retail,1194.00,7,0,0,0,7,FALSE,1.50,Jaco General
+202300359486,Great Lakes,school,10038.00,25,0,0,0,25,TRUE,76.00,C.D Smith Construction
+202200838479,Great Lakes,paving,23866.00,27,0,0,0,27,TRUE,4.20,Martam Construction
+202300412329,Great Lakes,park,6969.00,0,2,0,0,2,TRUE,7.50,Montgomery Martin Contractors
+202100609154,Great Lakes,theater,8180.00,0,0,8,0,8,FALSE,1.10,Wasatch West Construction
+202300281215,Great Lakes,paving,26568.00,4,31,0,0,35,FALSE,5.70,S M Hentges & Sons
+202300269888,Great Lakes,office,11386.00,6,4,0,0,10,FALSE,2.00,Parkos Construction
+202300309018,Great Lakes,marina facility,319829.00,7,0,0,29,36,TRUE,2.30,Newman Construction
+202200754215,Great Lakes,athletic facility ,1453896.00,0,131,0,0,131,TRUE,38.00,Tonn & Blank
+202000611212,Great Lakes,athletic facility ,6091.00,12,0,0,0,12,TRUE,3.00,Marker Construction
+201900512256,Northeast,office,5666.00,0,0,5,0,5,FALSE,5.70,Battco Cons.
+202300387411,Northeast,recreational,117193.00,18,3,3,4,28,TRUE,3.60,Nix Construction
+201500663086,Northeast,library,14000.00,0,0,14,0,14,FALSE,22.00,W.T Rich Company
+202300256076,Northeast,school,21780.00,0,0,5,0,5,FALSE,2.00,Northway Construction
+202300291878,Northeast,school,8700.00,0,8,0,0,8,TRUE,2.00,Dayton Construction
+202100741281,Northeast,athletic facility ,8100.00,0,0,0,14,14,FALSE,1.50,Command Co
+202300217139,Northeast,athletic facility ,347608.80,32,0,0,0,32,FALSE,1.30,Omasta Landscaping
+202300115887,Northeast,school,2257.00,3,0,0,0,3,FALSE,1.50,Triton Construction
+202300136818,Northeast,paving,114705.00,0,7,0,3,10,FALSE,1.30,Mj Cataldo
+202200451929,Northeast,retail,6805.00,0,0,13,0,13,TRUE,27.70,Nickerson & Oday
+201000660955,Northern California ,school,12532.00,3,0,8,0,11,TRUE,15.60,Soltek Pacific Construction Co.
+202200578866,Northern California ,retail,21978.00,0,0,11,3,14,FALSE,1.50,NaN
+202300381085,Northern California ,hotel,4444.00,1,6,0,0,7,TRUE,7.50,"Legacy Design Group, LLC"
+202300271112,Northern California ,warehouse,10197.00,0,0,17,0,17,TRUE,12.50,NaN
+202300225563,Northern California ,retail,41347.00,11,0,8,0,19,TRUE,37.50,NaN
+202300313732,Northern California ,pool,11396.00,2,3,0,0,5,TRUE,5.80,"Bobo Construction, Inc."
+202300376379,Northern California ,hospital,19604.00,4,1,2,3,10,TRUE,8.70,Rodan Builders
+202300404966,Northern California ,food service,5345.00,2,0,4,0,6,FALSE,2.50,NaN
+202300390611,Northern California ,school,9271.00,7,0,0,0,7,TRUE,2.20,NaN
+202300078340,Northern California ,office,114464.00,56,0,0,11,67,TRUE,26.70,NaN
+202300161625,Northwest,retail,46048.00,0,0,4,14,18,FALSE,1.50,NaN
+202200811070,Northwest,housing,5330.00,2,0,0,0,2,TRUE,7.50,Walsh Construction Co.
+202300383384,Northwest,park,130680.00,20,15,0,0,35,TRUE,10.00,NaN
+201900745451,Northwest,medical,703478.00,2,3,4,1,10,FALSE,4.20,CDK Construction Services
+202200634181,Northwest,recreational,67320.00,1,59,0,0,60,TRUE,1.60,NaN
+202300416487,Northwest,park,25266.00,0,13,0,16,29,TRUE,6.00,Nelson Construction
+201700831963,Northwest,recreational,15500.00,14,0,0,2,16,TRUE,9.60,Neeley Construction
+202300404398,Northwest,park,3205.00,1,3,0,2,6,FALSE,2.70,Selland Construction
+202300063454,Northwest,housing,847.50,2,0,2,7,11,FALSE,1.50,Beniton Construction
+202300021107,Northwest ,pool,12543.00,0,25,0,0,25,FALSE,10.90,Par-Tech
+202300372614,Southeast,retail,10944.00,0,7,0,1,8,TRUE,7.00,Fulcrum
+202300368959,Southeast,office,174240.00,2,0,0,24,26,TRUE,8.50,Harman Huffman
+202300387411,Southeast,recreational,20788.00,3,2,19,4,28,TRUE,3.60,Nix Construction
+202300357327,Southeast,park,1992.00,0,6,0,0,6,TRUE,1.40,K&A Builders
+202300282588,Southeast,school,293047.00,0,29,0,0,29,TRUE,6.00,Sellers & Sons
+202300374935,Southeast,recreational,13207.00,18,0,0,0,18,TRUE,2.10,Dickerson Construction
+202300151836,Southeast,cemetary,711805.00,0,15,0,57,72,TRUE,11.20,Sampson
+202200697084,Southeast,retail,16642.00,23,0,0,0,23,FALSE,4.00,Carden Co
+202200704184,Southeast,cemetary,87120.00,0,0,0,19,19,FALSE,2.10,Benchmark Construction
+202300128598,Southeast,senior center,5905.17,10,6,0,6,22,TRUE,6.80,Southcon Building Group
+202300089085,Southern California,school,1623.00,3,3,1,1,8,TRUE,14.60,NKS Mechanical Contracting
+201900579248,Southern California,hospital,2961.00,6,0,5,0,11,TRUE,7.50,Frank Schipper Construction Company
+202300250848,Southern California,warehouse,21196.00,15,0,0,0,15,TRUE,17.00,NaN
+202000746848,Southern California,recreational,167900.00,7,47,0,0,54,TRUE,8.10,Urban Habitat
+202300079379,Southern California,warehouse,13372.00,0,0,16,0,16,TRUE,12.50,Gray West
+202300389022,Southern California,landscaping,90000.00,9,2,11,66,88,TRUE,1.40,Costa Azul
+202300207913,Southern California,school,10727.00,10,0,0,0,10,TRUE,18.00,Neff Construction
+202300314354,Southern California,school,12283.00,3,1,0,1,5,TRUE,6.00,Dc Integrate
+202300105781,Southern California,school,5515.00,0,0,0,9,9,TRUE,9.90,Tovey Shultz 
+201800591179,Southern California,medical,6260.00,6,0,5,0,11,TRUE,20.80,RC Construction
+202000672578,Southwest,retail,1306.80,0,0,10,0,10,TRUE,1.50,NaN
+201900525555,Southwest,housing,3368.00,9,0,1,0,10,TRUE,51.90,Tofel Dent Construction
+202200724720,Southwest,food service ,162184.00,15,0,0,0,15,TRUE,40.00,Parkway
+202200666017,Southwest,warehouse,13945.00,0,0,26,0,26,TRUE,12.50,NaN
+202200738257,Southwest,school,42791.00,5,0,0,18,23,TRUE,42.60,NaN
+201800874205,Southwest,gym,14489.00,7,10,0,0,17,TRUE,43.00,LTF
+202300387167,Southwest,park,13195.00,26,0,2,0,28,TRUE,2.00,NaN
+202300422719,Southwest,office,5606.00,0,0,2,0,2,TRUE,2.30,Danson Construction
+202300320241,Southwest,park,62130.00,2,0,0,21,23,TRUE,5.10,Compass Engineering
+202300279801,Southwest,park,7500.00,0,0,5,0,5,FALSE,2.00,NaN
