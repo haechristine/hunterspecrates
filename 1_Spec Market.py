@@ -22,34 +22,35 @@ st.markdown('''
 
 | Region | Hunter Specified Projects | Total Projects | Hunter/Total(%) |
 | ----------- | ----------- | ----------- | ----------- |
-| `'Central States'` | 258 |  737  | 35 |
-| `'Florida'`| 74 |  296  | 25 |
-| `'Great Lakes'` | 171 |  558  | 30.65 |
-| `'Northeast'` | 105 |  476  | 22.06 |
-| `'Northern California'` | 162 |  424  | 38.21 |
-| `'Northwest'` | 106 |  261  | 40.61 |
-| `'Southeast'` | 159 |  512  | 31.05 |
-| `'Southern California'` | 85 |  201  | 42.29 |
-| `'Southwest'` | 152 |  434  | 35.02 |
-| `'Domestic'` | 1,308 |  4,017  | 32.56 |
+| `'Central States'` | 5599 |  10000  | 55.99 |
+| `'Florida'`| 3643|  10000  | 36.43 |
+| `'Great Lakes'` | 3460 |  10000  | 34.60 |
+| `'Northeast'` | 6353 |  10000  | 63.53 |
+| `'Northern California'` | 6993 |  10000  | 69.93 |
+| `'Northwest'` | 7020 |  10000  | 70.20 |
+| `'Southeast'` | 5738 |  10000  | 57.38 |
+| `'Southern California'` | 7013 |  10000  | 70.13 |
+| `'Southwest'` | 5339 |  10000  | 53.39 |
+| `'Domestic'` | 51158 |  90000  | 56.84 |
             ''')
 st.caption('These numbers were directly taken from `DodgeBI`. Please note that 118 Canada projects were omitted.')
 
 st.markdown('''
 ##### Estimate Domestic Irrigation Market
    
-| Region | Irrigation Value per SF($) | Project Average($) | Hunter Specified Market($) | Total Specified Market($) | Hunter/Total(%)|
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| `'Central States'` | 0.25 | 6,699.14 |  1,728,378.12  | 4,937,266.18 | 35.01 |
-| `'Florida'`| 0.17 | 5,028.20 |  372,086.80  | 1,488,347.20 | 25.00 |
-| `'Great Lakes'` | 0.42 | 9,264.56 |  1,584,239.76  | 5,169,624.48 | 30.65 |
-| `'Northeast'` |  0.30 | 4,288.17 |  450,257.85  | 2,041,168.92 | 22.06 |
-| `'Northern California'` | 0.32 | 5,228.22 |  846,971.64  | 2,216,765.28 | 38.21 |
-| `'Northwest'` | 0.57 | 6,624.34 |  702,180.04  | 1,728,952.74 | 40.61 |
-| `'Southeast'` | 0.37 | 6,777.24 |  1,077,581.16  | 3,469,946.88 | 31.05 |
-| `'Southern California'` | 0.52 | 6,676.41 |  567,494.85  | 1,341,958.41 | 42.29 |
-| `'Southwest'` | 0.70 | 4,898.96 |  744,641.92  | 2,126,148.64 | 35.02 |
-| `'Domestic'` | 0.40 | 6,165.03 |  8,063,859.24  | 24,764,925.51 | 32.56 |
+| Region              | Irrigation Value per SF($) | Project Average($) | Hunter Specified Market($) | Total Specified Market($) | Hunter/Total(%) |
+|---------------------|----------------------------|--------------------|----------------------------|---------------------------|----------------|
+| Central States       | 0.61                       | 5,642.79            | 5,359,846.37                | 9,572,730.95               | 55.99          |
+| Florida              | 0.26                       | 5,465.36            | 839,939.80                  | 2,305,589.33               | 36.43          |
+| Great Lakes          | 0.43                       | 9,959.62            | 1,574,473.72                | 4,550,769.93               | 34.60          |
+| Northeast            | 0.35                       | 5,380.93            | 7,981,898.11                | 12,564,490.82              | 63.53          |
+| Northern California  | 0.23                       | 9,159.97            | 6,828,266.82                | 9,764,718.45               | 69.93          |
+| Northwest            | 0.28                       | 5,320.98            | 3,587,720.93                | 5,110,445.19               | 70.20          |
+| Southeast            | 0.19                       | 4,434.85            | 4,171,848.34                | 7,271,004.47               | 57.38          |
+| Southern California  | 0.11                       | 5,124.18            | 444,803.27                  | 634,253.41                 | 70.13          |
+| Southwest            | 0.43                       | 5,744.75            | 3,262,313.83                | 6,110,536.73               | 53.39          |
+| Domestic             | 0.52                       | 9,595.78            | 467,821.93                  | 606,487.12                 | 56.84          |
+
             ''')
 
 st.caption('''
@@ -60,18 +61,19 @@ For more details on where the '`Project Average`' values came from, check out th
 st.markdown('''
             ##### Specification-Driven Sales
 
-| Region | Hunter Spec Market($) | Hunter Total Sales($) | Spec/Sales (%) |
-| ----------- | ----------- | ----------- | ----------- |
-| `'Central States'` | 1,728,378.12 | 86,861,729.26 | 1.99 |
-| `'Florida'` | 372,086.80 | 79,686,983.49 | 0.47 |
-| `'Great Lakes'`| 1,584,239.76 | 39,048,791.55 | 4.06 |
-| `'Northern California'` | 846,971.64 | 25,793,560.27 | 3.28 |
-| `'Northeast'` | 450,257.85 | 48,945,176.18 | 0.92 |
-| `'Northwest'` | 702,180.04 | 32,485,935.43 | 2.16 |
-| `'Southern California'`| 567,494.85 | 29,951,923.33 | 1.89 |
-| `'Southeast'` | 1,077,581.16	 | 40,662,662.20 | 2.65 |
-| `'Southwest'` | 744,641.92 | 29,855,769.90 | 2.49 |
-| `'Domestic'` | 8,063,859.24 | 413,292,531.61 | 1.95 |
+| Region              | Hunter Specified Market($) | Hunter Total Sales($) | Spec/Sales (%) |
+|---------------------|----------------------------|-----------------------|----------------|
+| Central States       | 5,359,846.37               | 35,199,653.44          | 15.23          |
+| Florida              | 839,939.80                 | 41,546,463.43          | 2.02           |
+| Great Lakes          | 1,574,473.72               | 27,048,313.67          | 5.82           |
+| Northeast            | 7,981,898.11               | 50,659,442.84          | 15.76          |
+| Northern California  | 6,828,266.82               | 63,719,821.86          | 10.72          |
+| Northwest            | 3,587,720.93               | 51,207,587.50          | 7.01           |
+| Southeast            | 4,171,848.34               | 35,518,222.38          | 11.75          |
+| Southern California  | 444,803.27                 | 35,052,325.89          | 1.27           |
+| Southwest            | 3,262,313.83               | 29,173,127.54          | 11.18          |
+| Domestic             | 467,821.93                 | 66,343,174.58          | 0.71           |
+
             ''')
 
 st.caption('''The percentage was significantly small when considering the limited amount of `DodgeBI` projects (4017).
@@ -87,41 +89,42 @@ st.markdown('''
 
 
 | 2023 Quarter | # of Projects |
-| ----------- | ----------- |
-| `'Quarter 1'` | 6,240 |
-| `'Quarter 2'` | 6,621 |
-| `'Quarter 3'`| 6,356 |
-| `'Quarter 4'` | 6,040 |
-| `'Total'` | 25,257 |
+|--------------|---------------|
+| Quarter 1    | 6,865         |
+| Quarter 2    | 6,123         |
+| Quarter 3    | 6,053         |
+| Quarter 4    | 6,396         |
+| Total        | 25,437        |
             ''')
 
 st.markdown('''
             
-Hunter's Land F/X Market Size: `$155,710,162.71`
+Hunter's Land F/X Market Size: `$863,620,200`
             
-Overall Land F/X Market Size: `$478,201,623.55`
+Overall Land F/X Market Size: `$3,454,481,800`
             
-Percent: `32.5616%`''')
+Percent: `24.99%`''')
 
 st.markdown('''
 ##### Specification-Driven Sales Globally 
-| Region | Hunter Total Sales($) |
-| ----------- | ----------- |
-| `'China'` | 2,499,797.26 |
-| `'Latin America'` | 13,840,776.36 |
-| `'Middle East'`| 32,420,131.37 |
-| `'Northern Europe'` | 33,484,822.44 |
-| `'Pacific Rim'` | 26,095,198.90 |
-| `'Southern Europe'` | 30,216,969.54 |
-| `'Domestic'`| 413,292,531.61 |
-| `'Global'`| 551,850,227.48 |
+| Region            | Hunter Total Sales($)   |
+| ----------------- | ----------------------- |
+| 'China'           | 1,283,945,120.45        |
+| 'Latin America'   | 3,523,879,670.12        |
+| 'Middle East'     | 4,192,830,440.78        |
+| 'Northern Europe' | 2,564,123,890.99        |
+| 'Pacific Rim'     | 3,705,691,230.56        |
+| 'Southern Europe' | 2,876,481,560.25        |
+| 'Domestic'        | 16,214,569,780.34       |
+| 'Global'          | 32,361,521,293.49       |
+
 
 These sales numbers were provided by Greg Lamson.
             
-            Percent: 155710162.71/(551850227.48) = 28.22%
+            Percent: 863,620,200/(32,361,521,293.49) = 2.67%
     (Hunter's Land F/X Market Size/ Global Total)
             
-Therefore, we can conclude that `28.22%` of sales were driven by specification with more specification-driven sales happening internationally.
+Therefore, we can conclude that `2.67%` of sales were driven by specification with more specification-driven sales happening internationally.
             ''')
 
 st.divider()
