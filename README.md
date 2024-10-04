@@ -12,5 +12,5 @@ I'm passionate about intertwining my educational background of the business indu
 
 Currently, I'm the Marketing Analyst for Hunter Industries and I've created this website to double as a creative report and blog to document my journey completing this project.
 
-For the purpose of data security, the datasets and visualizations are not accurate numbers representative of the irrigation market.
+**For the purpose of data security, the datasets and visualizations are not accurate numbers representative of the irrigation market. I've utilized ChatGPT to generate artificial datasets.**
 
